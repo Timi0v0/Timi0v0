@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**Timi0v0/Timi0v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 Tom
 
-Here are some ideas to get you started:
+## 技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- .NET
+- WinForms
+- WPF
+- GitLab CI/CD
+- Docker
+
+## 当前关注
+
+- AI Coding
+- DevOps
+- 工业软件开发
